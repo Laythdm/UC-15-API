@@ -1,18 +1,21 @@
 # UC-15-API
-Projeto integrador MOD III
+##Projeto integrador MOD III
 
-Objetivo do projeto
-Sistema de controle de revenda
+#Objetivo do projeto
+##Sistema de controle de revenda
 
-Tecnologias utilizadas
+##Tecnologias utilizadas
 • Java
 
 • Java Script
 
 • MySQl
 
-Objetivo do sistema
-O sistema deve permitir um controle rapido e agiu dos carros de uma revendedora
+##Time de desenvolvedores
+# João Gabriel
 
-Funcionalidades do sistema
-Cadastro de novos, Listagem de veiculo e Venda de veiculos
+##Objetivo do sistema
+#O sistema deve permitir um controle rapido e agiu dos carros de uma revendedora
+
+##Funcionalidades do sistema
+#Cadastro de novos, Listagem de veiculo e Venda de veiculos
