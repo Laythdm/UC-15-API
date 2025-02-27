@@ -15,7 +15,7 @@
 # João Gabriel
 
 ##Objetivo do sistema
-#O sistema deve permitir um controle rapido e agiu dos carros de uma revendedora
+#O sistema deve permitir um controle rapido e agil do catalogo de carros de uma revendedora
 
 ##Funcionalidades do sistema
-#Cadastro de novos, Listagem de veiculo e Venda de veiculos
+#Cadastro de novos carros, Listagem de veiculo e Baixa de veiculos
